@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-color: grey;
+}
+.link-header{
+    background-image: linear-gradient(orange,red,yellow);
+    color: black;
+}
+
